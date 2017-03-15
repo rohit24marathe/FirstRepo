@@ -1,1 +1,1 @@
-FirstRepo is added to repo // some sample text
+FirstRepo is deleted to repo //// some sample text
